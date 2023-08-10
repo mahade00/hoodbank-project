@@ -16,7 +16,7 @@ export const navLinks = [
   {
     id: "clients",
     title: "Clients",
-  },
+  }
 ];
 
 export const features = [
@@ -40,7 +40,7 @@ export const features = [
     title: "Balance Transfer",
     content:
       "A balance transfer credit card can save you a lot of money in interest charges.",
-  },
+  }
 ];
 
 export const feedback = [
@@ -67,7 +67,7 @@ export const feedback = [
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,
-  },
+  }
 ];
 
 export const stats = [
@@ -85,7 +85,7 @@ export const stats = [
     id: "stats-3",
     title: "Transaction",
     value: "$230M+",
-  },
+  }
 ];
 
 export const footerLinks = [
@@ -111,8 +111,8 @@ export const footerLinks = [
       {
         name: "Terms & Services",
         link: "https://www.hoobank.com/terms-and-services/",
-      },
-    ],
+      }
+    ]
   },
   {
     title: "Community",
@@ -136,8 +136,8 @@ export const footerLinks = [
       {
         name: "Newsletters",
         link: "https://www.hoobank.com/newsletters/",
-      },
-    ],
+      }
+    ]
   },
   {
     title: "Partner",
@@ -149,9 +149,9 @@ export const footerLinks = [
       {
         name: "Become a Partner",
         link: "https://www.hoobank.com/become-a-partner/",
-      },
-    ],
-  },
+      }
+    ]
+  }
 ];
 
 export const socialMedia = [

@@ -1,6 +1,6 @@
 import NavBar from "./NavBar";
 import Billing from './Billing';
-import CarDeal from './CardDeal';
+import CardDeal from './CardDeal';
 import Business from './Business';
 import Clients from './Clients';
 import CTA from './CTA';
@@ -12,7 +12,7 @@ import Hero from './Hero';
 export {
     NavBar,
 Billing,
-CarDeal,
+CardDeal,
 Business,
 Clients,
 CTA,
